@@ -1,0 +1,287 @@
+[{
+    "项目名称": "Baiping - feilong new village demonstration area",
+    "地址":"Bai Ping township",
+    "总机电话":"",
+    "imgSrc":"./static/img/lyzy/mapImg/jingdian/baiping.jpg",
+    "地图坐标": "106.378959,30.390744",
+    "项目编号": 0,
+    "type":0,
+    "color":"#5ac8fb"
+},
+{
+    "项目名称": "Treasure pro plug",
+    "地址":"Baozhen township b4, wusheng county, guang 'an city",
+    "总机电话":"(0826)6492303",
+    "imgSrc":"./static/img/lyzy/mapImg/jingdian/bjs.jpg",
+    "地图坐标": "106.074873,30.352156",
+    "项目编号": 1,
+    "type": 0,
+    "color":"#5ac8fb"
+},
+{
+    "项目名称": "Dragon lady lake",
+    "地址":"Wusheng county, guang 'an city, sichuan province",
+    "总机电话":"",
+    "imgSrc":"./static/img/lyzy/mapImg/jingdian/lnh.jpg",
+    "地图坐标": "106.257431,30.332742",
+    "项目编号": 2,
+    "type": 0,
+    "color":"#5ac8fb"
+},
+{
+    "项目名称": "Tai chi lake tourist area",
+    "地址":"",
+    "总机电话":"",
+    "imgSrc":"./static/img/lyzy/mapImg/jingdian/tjh.jpg",
+    "地图坐标": "106.285674,30.350383",
+    "项目编号": 3,
+    "type": 0,
+    "color":"#5ac8fb"
+},
+{
+    "项目名称": "Yankou ancient town cultural tourism area",
+    "地址":"Near no.2 wangjiang street",
+    "总机电话":"",
+    "imgSrc":"./static/img/lyzy/mapImg/jingdian/ykgz.jpg",
+    "地图坐标": "106.293872,30.354013",
+    "项目编号": 4,
+    "type": 0,
+    "color":"#5ac8fb"
+},
+
+
+
+
+{
+    "项目名称": "Wu sheng Yin shan holiday inn",
+    "地址":"No.2 linjiang street, wusheng county",
+    "总机电话":"0826-6680006",
+    "imgSrc":"./static/img/lyzy/mapImg/fandian/ys.png",
+    "地图坐标": "106.292992,30.353241",
+    "项目编号": 11,
+    "type": 1,
+    "color":"#0278ff"
+},
+{
+    "项目名称": "Wu sheng jia hao hotel",
+    "地址":"333 binjiang road",
+    "总机电话":"(0826)6228886",
+    "imgSrc":"./static/img/lyzy/mapImg/fandian/jh.png",
+    "地图坐标": "106.278761,30.345628",
+    "项目编号": 12,
+    "type": 1,
+    "color":"#0278ff"
+},
+{
+    "项目名称": "Wusheng county new century hotel",
+    "地址":"114 hongwu avenue, near zhenxing road, yankou town",
+    "总机电话":"0826-6232688",
+    "imgSrc":"./static/img/lyzy/mapImg/fandian/xsj.png",
+    "地图坐标": "106.293163,30.348366",
+    "项目编号": 13,
+    "type": 1,
+    "color":"#0278ff"
+},
+{
+    "项目名称": "Wu shenghong hui hotel",
+    "地址":"450 yingbin avenue, shuxiang mansion, near east ring road",
+    "总机电话":"0826-6826888",
+    "imgSrc":"./static/img/lyzy/mapImg/fandian/hh.png",
+    "地图坐标": "106.311609,30.353148",
+    "项目编号": 14,
+    "type": 1,
+    "color":"#0278ff"
+},
+{
+    "项目名称": "Wusheng lanting cultural boutique hotel",
+    "地址":"158 jinyan street, near yanjiang road",
+    "总机电话":"0826-6388888 ",
+    "imgSrc":"./static/img/lyzy/mapImg/fandian/lt.png",
+    "地图坐标": "106.289567,30.350618",
+    "项目编号": 15,
+    "type": 1,
+    "color":"#0278ff"
+},
+
+
+
+
+
+
+{
+    "项目名称": "Xiaolongkan old hotpot (rongheng times square store)",
+    "地址":"No. 33-48, 2nd floor, F district, rongheng times square",
+    "总机电话":"0826-6260666",
+    "imgSrc":"./static/img/lyzy/mapImg/canguan/xlk.jpg",
+    "地图坐标": "106.284477,30.342336",
+    "项目编号": 16,
+    "type":2,
+    "color":"#16f6fe"
+},
+{
+    "项目名称": "Jiblu steak and seafood buffet (wusheng leisure plaza store)",
+    "地址":"Fifty meters street leisure square",
+    "总机电话":"0826-6664888",
+    "imgSrc":"./static/img/lyzy/mapImg/canguan/jbl.png",
+    "地图坐标": "106.301255,30.344881",
+    "项目编号": 17,
+    "type": 2,
+    "color":"#16f6fe"
+},
+{
+    "项目名称": "Day hotel emerald bay",
+    "地址":"Binjiang district longnv lake tourist resort",
+    "总机电话":"0826-6261999",
+    "imgSrc":"./static/img/lyzy/mapImg/canguan/fcw.png",
+    "地图坐标": "106.258663,30.33515",
+    "项目编号": 18,
+    "type": 2,
+    "color":"#16f6fe"
+},
+{
+    "项目名称": "Liziba liangshan chicken (rongheng shop)",
+    "地址":"2nd floor, rongheng times, xingwu avenue, yankou town (former shunshui fish house",
+    "总机电话":"18090523059",
+    "imgSrc":"./static/img/lyzy/mapImg/canguan/lzb.png",
+    "地图坐标": "106.287514,30.342369",
+    "项目编号": 19,
+    "type": 2,
+    "color":"#16f6fe"
+},
+{
+    "项目名称": "Qiao jiangnan",
+    "地址":"79 liubao street",
+    "总机电话":"",
+    "imgSrc":"./static/img/lyzy/mapImg/canguan/qjl.png",
+    "地图坐标": "106.288083,30.345596",
+    "项目编号": 20,
+    "type": 2,
+    "color":"#16f6fe"
+},
+
+
+
+
+
+
+{
+    "项目名称": "Orange commercial street",
+    "地址":"",
+    "总机电话":"",
+    "imgSrc":"./static/img/lyzy/mapImg/gouwuchangsuo/cysyj.jpg",
+    "地图坐标": "106.636848,30.467137",
+    "项目编号": 21,
+    "type":3,
+    "color":"#ffd425"
+},
+{
+    "项目名称": "Heavy hundred wusheng shopping mall",
+    "地址":"",
+    "总机电话":"",
+    "imgSrc":"./static/img/lyzy/mapImg/gouwuchangsuo/cbws.png",
+    "地图坐标": "106.297044,30.35343",
+    "项目编号": 22,
+    "type": 3,
+    "color":"#ffd425"
+},
+{
+    "项目名称": "Cade square",
+    "地址":"",
+    "总机电话":"",
+    "imgSrc":"./static/img/lyzy/mapImg/gouwuchangsuo/kdgc.png",
+    "地图坐标": "106.286355,30.342644",
+    "项目编号": 23,
+    "type": 3,
+    "color":"#ffd425"
+},
+{
+    "项目名称": "Shengda holiday plaza",
+    "地址":"",
+    "总机电话":"",
+    "imgSrc":"./static/img/lyzy/mapImg/gouwuchangsuo/sdjrgc.png",
+    "地图坐标": "106.297668,30.350756",
+    "项目编号": 24,
+    "type": 3,
+    "color":"#ffd425"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "项目名称": "花儿开了",
+    "地址":"",
+    "总机电话":"",
+    "imgSrc":"./static/img/lyzy/mapImg/nongjiale/hekl.jpg",
+    "地图坐标": "106.387402,30.394952",
+    "项目编号": 26,
+    "type":4,
+    "color":"#fe9400"
+},
+{
+    "项目名称": "桔子红了",
+    "地址":"",
+    "总机电话":"",
+    "imgSrc":"./static/img/lyzy/mapImg/nongjiale/jzhl.jpg",
+    "地图坐标": "106.383949,30.394919",
+    "项目编号": 27,
+    "type": 4,
+    "color":"#fe9400"
+},
+{
+    "项目名称": "张家院子农家乐",
+    "地址":"",
+    "总机电话":"",
+    "imgSrc":"./static/img/lyzy/mapImg/nongjiale/zjyz.jpg",
+    "地图坐标": "106.386104,30.402159",
+    "项目编号": 28,
+    "type": 4,
+    "color":"#fe9400"
+},
+
+
+
+
+
+
+{
+    "项目名称": "白坪乡高洞村",
+    "地址":"广安市武胜县三零四省道 ",
+    "总机电话":"",
+    "imgSrc":"./static/img/lyzy/mapImg/xaingcunlvyou/bpxgdc.jpg",
+    "地图坐标": "106.38365,30.389121",
+    "项目编号": 29,
+    "type": 5,
+    "color":"#fe9400"
+},
+{
+    "项目名称": "下坝记忆创客乐园",
+    "地址":"",
+    "总机电话":"",
+    "imgSrc":"./static/img/lyzy/mapImg/xaingcunlvyou/xbjy.png",
+    "地图坐标": "106.379225,30.391548",
+    "项目编号": 30,
+    "type": 5,
+    "color":"#fe9400"
+},
+{
+    "项目名称": "宝箴塞乡",
+    "地址":"广安市武胜县宝箴塞乡b4",
+    "总机电话":"(0826)6492303 ",
+    "imgSrc":"./static/img/lyzy/mapImg/xaingcunlvyou/bjs.jpg",
+    "地图坐标": "106.074873,30.352156",
+    "项目编号": 31,
+    "type":5,
+    "color":"#f86732"
+}
+
+]

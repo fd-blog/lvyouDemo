@@ -1,0 +1,48 @@
+*
+    box-sizing border-box
+    padding 0
+    margin 0
+p
+    padding 0
+    margin 0 
+ul, ol, li
+    list-style none
+    padding 0
+    margin 0
+clearfix()
+  &::after 
+    content ""
+    display block
+    height 0
+    clear both
+    visibility hidden
+fl()
+    float left
+fr()
+    float right
+.pageBox
+    width 100%
+    height 100%
+    position absolute
+    top 0
+    left 0
+    overflow hidden
+    .chartTitle
+        text-align center
+        width 100%
+        height 40px
+        color #ffffff
+        font-size 20px
+borderColor = rgba(63, 239, 251, 0.3)
+.charttitle
+    width 100%
+    height 40px
+    line-height 40px
+    font-size 22px
+    font-weight 700
+    color #ffffff
+    position absolute
+    background-color borderColor
+    span
+        padding 0 10px 0 20px
+        color rgba(63, 239, 251, 1)
