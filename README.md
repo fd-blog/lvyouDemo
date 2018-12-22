@@ -10,6 +10,7 @@
 3.echarts.min.js
 4.changeCood.js
 5.element-ui
+6.i18n
 ```
 ## 示意图
  
