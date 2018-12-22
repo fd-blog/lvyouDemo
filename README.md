@@ -15,9 +15,9 @@
 ### 4.changeCood.js：
 > 坐标转换 提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换
 ### 5.element-ui：
->基于vuejs道德UI库
+>基于vuejs的UI库
 ### 6.i18n：
->语音切换插件
+>语言切换插件
 ## 示意图
 ![pic4](static/img/pic4.png)
 ![pic1](static/img/pic1.png)
