@@ -19,7 +19,7 @@
 ###6.i18n：
 >语音切换插件
 ## 示意图
-![pic4](static/img/pic3.png)
+![pic4](static/img/pic4.png)
 ![pic1](static/img/pic1.png)
 ![pic2](static/img/pic2.png)
 ![pic3](static/img/pic3.png)
