@@ -4,7 +4,7 @@
 			<div class="box">
 				<div class="buttom" @click="returnFun" v-show="!show">
 					<i class="iconfont icon-54"></i>
-					<span>返回</span>
+					<span>{{ $t('navbar.return') }}</span>
 				</div>
 				<p class="title">{{ $t('navbar.title') }} <i class="shuiyin"></i></p>
 				<div class="dqkl">
